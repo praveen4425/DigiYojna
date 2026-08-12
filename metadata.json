@@ -1,0 +1,6 @@
+{
+  "name": "DigiYojna",
+  "description": "Multilingual AI Citizen Assistant for Indian Government Schemes and Services",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
